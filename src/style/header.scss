@@ -1,0 +1,20 @@
+.header {
+  width: 100%;
+  background-color: royalblue;
+  padding: 30px 0;
+  margin-bottom: 100px;
+  
+  ul {
+    display: flex;
+    justify-content: center;
+    gap: 180px;
+
+    li {
+      color: white;
+    }
+
+    a {
+      color: white;
+    }
+  }
+}
